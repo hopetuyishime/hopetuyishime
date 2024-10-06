@@ -1,23 +1,32 @@
-Welcome to my GitHub profile! 🌟
-I'm @hopetuyishime, a software engineer enthusiast with a passion for learning and collaboration. 💻
+# Welcome to My GitHub Profile! 🌟
 
-About me
-Interests: 🤖 Software engineering, innovation, and problem-solving
-Currently learning: ☕️ Java, with a focus on building scalable and efficient systems
-Collaboration: I'm always looking for opportunities to work on exciting projects with like-minded individuals. Let's build something amazing together! 💞️
-Get in touch
-Email: 📧 tuyishimekyrie@gmail.com
-Pronouns: 👨‍♂️ he/him
-Fun fact
-Motivation: 💪 I believe that "Impossible is I am possible" - a mindset that drives me to push beyond my limits and achieve my goals. ⚡
-I've added icons to each section to make it more visually appealing and engaging. The icons are:
+Hi there! I’m [@hopetuyishime](https://github.com/hopetuyishime), a passionate software engineer on a journey of continuous learning and collaboration. 💻
 
-🌟: A star to represent your GitHub profile
-💻: A computer to represent software engineering
-🤖: A robot to represent innovation and problem-solving
-☕️: A cup of coffee to represent Java (a popular programming language)
-💞️: A heart to represent collaboration and teamwork
-📧: An envelope to represent email
-👨‍♂️: A male sign to represent your pronouns
-💪: A flexed bicep to represent motivation and empowerment
-Let me know if you have any other requests or changes you'd like me to make! 😊
+## About Me
+
+### Interests
+🤖 **Software Engineering** | **Innovation** | **Problem-Solving**
+
+### Currently Learning
+☕️ **Java** - Focusing on building scalable and efficient systems.
+
+### Tech Stack
+- **Languages:** Java, Python, JavaScript
+- **Frameworks:** Spring Boot, React
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, Jenkins
+
+### Collaboration
+💞️ I'm always on the lookout for exciting projects to collaborate on. If you share my passion for technology and innovation, let’s connect and create something amazing together!
+
+## Availability
+📅 **Open for Hire:** I’m currently available for freelance and full-time opportunities. Let’s chat!
+
+## Get in Touch
+📧 [tuyishimekyrie@gmail.com](mailto:tuyishimekyrie@gmail.com)
+
+### Pronouns
+👨‍♂️ He/Him
+
+## Fun Fact
+💪 **Motivation:** I believe that "Impossible is I am possible." This mindset drives me to push beyond my limits and achieve my goals. ⚡
